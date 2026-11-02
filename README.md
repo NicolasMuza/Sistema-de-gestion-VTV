@@ -19,3 +19,26 @@ gestión del turno, la recepción, los tiempos de espera, la información recibi
 experiencia durante la inspección.
 
 Integrantes: Nicolas Muza.
+
+# Indicadores de Control y Estándares de Desempeño
+
+Para evaluar el funcionamiento del sistema de gestión de Applus+ VTV, se establecen los siguientes indicadores de control. Estos permiten verificar el cumplimiento de los objetivos del proyecto y detectar posibles problemas en el servicio.
+
+| Indicador |
+
+| Disponibilidad del sistema | Mantener una disponibilidad mínima del 99 % mensual. | Registrar los períodos de funcionamiento e interrupciones del sistema. |
+
+| Tiempo de gestión de turnos | Completar la solicitud y confirmación del turno en un máximo de 5 minutos, una vez ingresados los datos y aprobado el pago. | Medir el tiempo transcurrido entre la solicitud completa y la confirmación. |
+
+| Registro de inspecciones | Registrar el 100 % de las inspecciones realizadas con sus mediciones y resultados correspondientes. | Verificar que cada inspección finalizada tenga su registro completo. |
+
+| Notificación de resultados | Enviar el informe al cliente dentro de los 5 minutos posteriores al registro del resultado. | Comparar la hora de registro del resultado con la hora de envío de la notificación. |
+
+Estos estándares constituyen metas de referencia para evaluar la calidad del sistema. Su cumplimiento podrá verificarse mediante los registros de actividad y los reportes de funcionamiento.
+
+# Declaración de Uso de IA
+
+Durante el desarrollo de esta entrega se utilizó ChatGPT como herramienta de asistencia para organizar la documentación, orientar el modelado del proceso BPMN, estructurar las historias de usuario y proponer indicadores de control para el sistema.
+Los prompts utilizados estuvieron orientados principalmente a organizar y alinear la documentacion conlos requisitos de la entrega.
+La intervención humana consistió en revisar las propuestas, adaptarlas al funcionamiento planteado para Applus+ VTV y verificar la coherencia entre la documentación y el alcance del proyecto.
+La herramienta se utilizó como apoyo y no como sustituto del análisis del estudiante. La revisión final, las decisiones tomadas y la responsabilidad sobre el contenido presentado corresponden al autor del trabajo.
